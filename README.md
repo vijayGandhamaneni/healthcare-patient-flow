@@ -37,8 +37,6 @@ healthcare-patient-flow/
 │
 └── README.md
 
-yaml
-Copy code
 
 ---
 
@@ -71,7 +69,7 @@ Copy code
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOURUSERNAME/healthcare-patient-flow.git
+   git clone https://github.com/vijayGandhamaneni/healthcare-patient-flow.git
    cd healthcare-patient-flow
 (Optional) Create virtual environment & install dependencies
 
@@ -109,4 +107,5 @@ dashboard/dashboard.png — Power BI screenshot for quick preview.
 You can reuse the notebooks and CSV files for learning or as a template — please give credit if you reuse substantial parts in public projects.
 
 👤 Author
+
 Vijay Kiran Chowdary Gandhamaneni
